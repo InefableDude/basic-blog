@@ -1,0 +1,39 @@
+/* CSS-global */
+
+html {
+  font-size: 62.5%;
+  box-sizing: border-box;
+}
+
+*,
+*:before,
+*:after {
+  box-sizing: inherit;
+}
+
+body {
+  font-size: 1.6rem;
+  line-height: 1.8;
+  font-family: sans-serif;
+  background-color: rgb(1, 103, 134);
+}
+
+a {
+  text-decoration: none;
+}
+
+img {
+  min-width: 100%;
+  max-width: 100%;
+  display: block;
+}
+
+/* -------------- */
+
+.main-heading {
+  background-color: rgb(48, 80, 53);
+  padding: 2rem 1rem;
+  margin: 0;
+  color: white;
+  text-align: center;
+}

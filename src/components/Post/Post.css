@@ -1,0 +1,21 @@
+.post-container {
+    border-radius: 1rem;
+    background: rgb(212, 219, 235);
+    padding: 1rem;
+    margin: 1rem 2rem;
+}
+
+.heading {
+    text-align: center;
+}
+
+.body-info {
+    background-color: rgb(255, 255, 255);
+    padding: 2rem;
+    border-radius: 1rem;
+    text-align: justify;
+}
+
+.image {
+    border-radius: 0.5rem;
+}
